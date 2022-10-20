@@ -1,0 +1,10 @@
+.comment {
+  border: 1px solid black;
+  width: 1000px;
+  position: absolute;
+  left: 700px;
+  justify-content: space-between;
+}
+.COMMENT-GROUP {
+  display: flex;
+}
